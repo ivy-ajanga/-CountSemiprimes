@@ -1,0 +1,13 @@
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\bin\Debug\netcoreapp3.1\CountSemiPrimes.exe
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\bin\Debug\netcoreapp3.1\CountSemiPrimes.deps.json
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\bin\Debug\netcoreapp3.1\CountSemiPrimes.runtimeconfig.json
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\bin\Debug\netcoreapp3.1\CountSemiPrimes.runtimeconfig.dev.json
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\bin\Debug\netcoreapp3.1\CountSemiPrimes.dll
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\bin\Debug\netcoreapp3.1\CountSemiPrimes.pdb
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.csprojAssemblyReference.cache
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.AssemblyInfoInputs.cache
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.AssemblyInfo.cs
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.csproj.CoreCompileInputs.cache
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.dll
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.pdb
+C:\Users\Administration\source\repos\CountSemiPrimes\CountSemiPrimes\obj\Debug\netcoreapp3.1\CountSemiPrimes.genruntimeconfig.cache
